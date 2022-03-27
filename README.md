@@ -1,5 +1,5 @@
-# PLEASE SUBSCRIBE MY YOUTUBE
-> Created by RzLModz
+# PLEASE SUBSCRIBE MY YOUTUBE 
+> Created by RzLModz😈
 >
 > How to install in termux
 >
@@ -19,7 +19,7 @@
 >
 > $npm start
 >
-> SCAN!
+> TINGGAL SCAN TOD!
 >
 > Feature ➡️
 #ownermenu
@@ -41,4 +41,4 @@
 > If you find an error please contact me!
 wa.me/6288277562022
 >
-> ✨Thanks To all creator bot
+> ✨Thanks To all creator bot dan om recode di seluruh Nusantara
