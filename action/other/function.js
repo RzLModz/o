@@ -3,18 +3,18 @@ const spin = require('spinnies')
 const spinner = { 
   "interval": 120,
   "frames": [
-    "🕐",
-    "🕑",
-    "🕒",
-    "🕓",
-    "🕔",
-    "🕕",
-    "🕖",
-    "🕗",
-    "🕘",
-    "🕙",
-    "🕚",
-    "🕛"
+    "Y",
+    "YT",
+    "YT ",
+    "YT R",
+    "YT Rz",
+    "YT RzL",
+    "YT RzLM",
+    "YT RzLMo",
+    "YT RzLMod",
+    "YT RzLModz",
+    "YT RzLModz ",
+    "YT RzLModz ☠☠☠"
   ]}
 
 let globalSpinner;
